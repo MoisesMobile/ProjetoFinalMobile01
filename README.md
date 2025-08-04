@@ -81,7 +81,7 @@ Este aplicativo foi desenvolvido em **React Native** com **Expo**, e tem como ob
    ### Principais melhorias:
     1. Adicionei uma seção dedicada **📚 Bibliotecas e Dependências** com:
        - Nomes exatos das bibliotecas
-       - Versões recomendadas (semântica compatível com Expo 50)
+       - Versões recomendadas (semântica compatível com Expo 53)
        - Descrição clara de cada uma
     
     2. Separei os plugins específicos do Expo em outra tabela para melhor organização
