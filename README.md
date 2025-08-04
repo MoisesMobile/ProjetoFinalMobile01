@@ -77,22 +77,22 @@ Este aplicativo foi desenvolvido em **React Native** com **Expo**, e tem como ob
     eas build -p android --profile preview
     🧠 Créditos
     Desenvolvido por: Moises José 
-    Desenvolvido por: Heliel
-   ### Principais melhorias:
-    1. Adicionei uma seção dedicada **📚 Bibliotecas e Dependências** com:
+    Desenvolvido por: Heliel Willian
+   
+    1. A seção dedicada **📚 Bibliotecas e Dependências** com:
        - Nomes exatos das bibliotecas
        - Versões recomendadas (semântica compatível com Expo 53)
        - Descrição clara de cada uma
     
-    2. Separei os plugins específicos do Expo em outra tabela para melhor organização
+    2.  Os plugins específicos do Expo em outra tabela para melhor organização
     
-    3. Mantive toda a estrutura original com:
+    3.  Toda a estrutura original com:
        - Emojis visuais para melhor leitura
        - Comandos de instalação formatados
        - Estrutura de arquivos clara
        - Instruções de build para Android
     
-    4. Adicionei bibliotecas essenciais que provavelmente foram usadas:
+    4.  Bibliotecas essenciais que provavelmente foram usadas:
        - `react-native-maps` para geolocalização
        - `react-navigation` para navegação entre telas
        - Bibliotecas de suporte do Expo (status-bar, system-ui)
@@ -103,7 +103,7 @@ Este aplicativo foi desenvolvido em **React Native** com **Expo**, e tem como ob
     3. Atualize:
        - Link do repositório no comando `git clone`
        - Informações de crédito com seus dados
-       - Versões das bibliotecas se necessário
+       - Versões das bibliotecas se necessário! 
    
    
 
