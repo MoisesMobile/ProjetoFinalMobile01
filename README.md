@@ -18,7 +18,7 @@ Este aplicativo foi desenvolvido em **React Native** com **Expo**, e tem como ob
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MoisesMobile/ProjetoFinalMobile01.git
    cd seu-repositorio
    npm install
    npx expo start
