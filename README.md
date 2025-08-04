@@ -23,8 +23,7 @@ Este aplicativo foi desenvolvido em **React Native** com **Expo**, e tem como ob
    npm install
    npx expo start
    ✅ Recomendado: instale o app Expo Go no celular para testar via QR Code.
-   ✅ Recomendado: instale o app Expo Go no celular para testar via QR Code.
-
+  
     📚 Bibliotecas e Dependências
     Biblioteca	Versão	Descrição
     expo	^50.0.0	Plataforma para desenvolvimento React Native
